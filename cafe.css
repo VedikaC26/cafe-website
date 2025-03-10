@@ -308,7 +308,7 @@ button{
         flex-direction: column;
         align-items: center;
         padding-top: 100px;
-        background: white;
+        background: rgb(192, 134, 165);
         transition: left 0.2 ease;
     }
 
